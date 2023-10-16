@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    font-family:"Arial";
+}
+#question{
+    font-size:100px;
+    font-weight:bold;
+}
+.interact{
+    cursor:pointer;
+    border-radius:5px;
+    color:blue;
+    text-decoration:underline;
+}
